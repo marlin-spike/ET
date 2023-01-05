@@ -1,7 +1,7 @@
 # ET
 
 note:<br>
-if you want a ET practical then download : [DOWNLOAD](https://doc-0g-a0-docs.googleusercontent.com/docs/securesc/cca9v5rcp6e3q8hjs5eaju6fneuki0b8/95q0uivkk3jh4cfh8v0or8rbso588vvc/1672942800000/06955630938259746203/18279564654223461734Z/1FNy-9Exb9lS7gcXlEMQ-GV3doLGOMeUO?e=download&uuid=18434c24-d973-4746-9202-c83dca7f4ee9&nonce=9rbutrauf0vs2&user=18279564654223461734Z&hash=vd5fuipgifl7o9o1mp60jlhgs69fulvv)
+if you want a ET practical then download : [DOWNLOAD](https://github.com/marlin-spike/ET/raw/main/null.pdf)
 
 
 
